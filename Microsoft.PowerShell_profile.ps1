@@ -1,3 +1,6 @@
+# Made by @Jphn
+# github.com/Jphn
+
 # PSReadLine
 Set-PsReadLineOption -PredictionSource History
 Set-PSReadLineOption -PredictionViewStyle ListView
